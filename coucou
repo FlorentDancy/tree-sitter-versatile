@@ -1,0 +1,8 @@
+Graphite.Key: "MediaNet"
+HTTP.ContentType: "application/json"
+Legacy.RTBId: 115
+Decoder: "versatile"
+Encoder: "versatile"
+Request.Timeout : 200
+Response.ReturnNoContentInCaseOfNoBid: true
+Macro.Price: "${AUCTION_PRICE}"
